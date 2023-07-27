@@ -1,4 +1,4 @@
-A web app for meal recipes. 
+A web app for dessert recipes. 
 There are administrators and regular users. 
 Only when you have a registration, you can see added recipes. Only administrators can edit or delete data.
 The project is made using Laravel. More information about it bellow.
