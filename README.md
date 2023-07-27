@@ -1,6 +1,7 @@
-
-
-
+A web app for meal recipes. 
+There are administrators and regular users. 
+Only when you have a registration, you can see added recipes. Only administrators can edit or delete data.
+The project is made using Laravel. More information about it bellow.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
