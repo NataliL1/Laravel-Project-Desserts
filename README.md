@@ -1,6 +1,4 @@
-Web application for recruiting models. 
-There is a form to fill out. The data from it is recorded in a database. 
-Only admin accounts can see candidate table. The project is made using Laravel. More info about it bellow.
+
 
 
 
